@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@avitalique/k6-html-reporter": "^1.0.5-dev.4",
+    "k6-html-reporter": "^1.0.5"
+  }
+}
